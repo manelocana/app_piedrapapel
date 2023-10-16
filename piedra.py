@@ -1,7 +1,6 @@
 #juego simple: piedra, papel o tijera
 
 def jueguito():
-
     while True:
         print("### hola, jugamos?")
         a = int(input("jugador 1 elige: 1= piedra, 2= papel, 3= tijera: "))
